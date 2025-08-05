@@ -1,8 +1,8 @@
-# Consulta SQL — Produtos com Alto Desconto e Preço Acima da Média
+# Consulta SQL — Produtos  Desconto e Preço 
 
--- Liste os produtos (ID, marca, modelo, preço e desconto médio) 
--- cujo desconto médio recebido seja maior que 5% e cujo preço esteja 
--- acima da média dos preços dos produtos da mesma marca.
+-- consulta (ID, marca, modelo, preço e desconto médio),
+cujo desconto médio recebido seja maior que 5% e cujo preço esteja 
+acima da média dos preços dos produtos da mesma marca.
 
 Objetivo
 
